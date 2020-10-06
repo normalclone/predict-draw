@@ -1,4 +1,4 @@
 # predict-draw
-Implement google API to predict draw! 
+Implement google API(As google translate and google QuickDraw) to predict draw! 
 
-`Open Index.html` and enjoy!~
+Open `Index.html` and enjoy!~
